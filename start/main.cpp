@@ -8,4 +8,5 @@ int main() {
 	t1.f();
 
 	f2();
+	int* p = new int[10];
 }
